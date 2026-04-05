@@ -63,7 +63,7 @@ A modern, responsive, and visually appealing Snake Game built using HTML5, CSS3,
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/ramazancetinkaya/snake-game.git
+   git clone https://github.com/Priya301224/Snake-game-using-javscript.git
    ```
 
 2. **Navigate to the Project Directory**:
@@ -93,4 +93,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - Inspired by the classic Snake game.  
 - Built with passion and love for coding.  
-- Designed and developed with 💖 by [Ramazan Çetinkaya](https://github.com/ramazancetinkaya).
+- Designed and developed with 💖 by https://github.com/Priya301224/Snake-game-using-javscript.git
